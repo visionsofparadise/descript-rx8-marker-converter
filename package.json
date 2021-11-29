@@ -1,0 +1,20 @@
+{
+	"name": "descript-rx8-marker-converter",
+	"version": "1.0.0",
+	"description": "Convert markers from Descript transcripts to RX8 chapter markers",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/visionsofparadise/descript-rx8-marker-converter.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/visionsofparadise/descript-rx8-marker-converter/issues"
+	},
+	"homepage": "https://github.com/visionsofparadise/descript-rx8-marker-converter#readme"
+}
